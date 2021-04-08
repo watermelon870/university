@@ -1,0 +1,9 @@
+Hi {name}, your id is {id}
+Items that you have is following.
+ITEM LIST:
+{for items}
+Item{@idx}
+Name: {name}
+Price: {price}{if price_type=="KR"}KRW{else}USD{/if}
+
+{/for}

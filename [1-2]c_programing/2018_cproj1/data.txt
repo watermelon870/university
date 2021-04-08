@@ -1,0 +1,10 @@
+name=baek
+id=1512
+items.count=2
+items[0].name=Apple
+items[0].price=1000
+items[0].price_type=KR
+items[1].name=Banana
+items[1].price=2
+items[1].price_type=USD
+
